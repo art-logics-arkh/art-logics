@@ -1,0 +1,24 @@
+{
+  "name": "art-logics",
+  "version": "1.0.0",
+  "description": "Typescript declarative framework to quickly build mobile apps with opinionated UI.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art-logics-arkh/art-logics.git"
+  },
+  "keywords": [
+    "mobile",
+    "apps",
+    "ui"
+  ],
+  "author": "Boris Arkhipov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art-logics-arkh/art-logics/issues"
+  },
+  "homepage": "https://github.com/art-logics-arkh/art-logics#readme"
+}
